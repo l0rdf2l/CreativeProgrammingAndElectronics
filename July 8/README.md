@@ -6,4 +6,4 @@ Here is a picture of me and my pc (:
 
 This is me in front of my desktop and monitor
 
-I struggled a lot with understanding the coordinate system of Processing
+I struggled a lot with understanding the [coordinate system of Processing](https://processing.org/tutorials/drawing/)
