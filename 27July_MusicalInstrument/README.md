@@ -17,3 +17,4 @@ Here are pictures of my instrument!
 [Here is an embedded Youtube link of my instrument in action!](https://youtu.be/40VWmy5pk6M)
 
 Here is a picture of my schematic!
+![](schematic2-1.JPG)
