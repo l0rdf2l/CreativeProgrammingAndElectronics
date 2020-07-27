@@ -6,7 +6,7 @@ The main components of the instrument consists of the red switch, green switch, 
 
 The stick attatchment to the servo that acts as the arm of the metrenome was quite tricky to attach. 
 
-Problems I am still facing is getting the servo to move along with the song playing at the same time. 
+Problems I am still facing is getting the servo to move along with the song playing at the same time. So for now, it is two seperate entities: a music player and a metrenome.
 
 Here are pictures of my instrument!
 
