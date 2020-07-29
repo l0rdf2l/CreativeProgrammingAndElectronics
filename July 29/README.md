@@ -8,3 +8,6 @@ For this version of my midterm game, I added the functionality of being able to 
 
 The most challenging part was getting the game to work properly. 
 
+Here is a picture of the schematic, just a simple switch!
+
+![](schematic3-1.JPG)
