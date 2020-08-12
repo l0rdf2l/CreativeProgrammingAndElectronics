@@ -2,6 +2,7 @@
 
 Here are pictures of the physical aspects of the project!
 
-![](main.png)
+![Computer Monitor + Vehicle](main.png)
 
 ![](car.jpg)
+
