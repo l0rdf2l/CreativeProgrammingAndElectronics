@@ -2,5 +2,5 @@
 
 Here is a picture of my project!
 
-![](main.PNG)
+![](main.png)
 
