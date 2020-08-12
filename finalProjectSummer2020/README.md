@@ -2,6 +2,5 @@
 
 Here is a picture of my project!
 
-![](reference.JPG)
+![](main.JPG)
 
-![](vehicle.JPG)
