@@ -1,3 +1,8 @@
+// Austin Chang
+// 8.12.2020
+// DESINV23 / Summer '20
+// Professor Shiloh
+
 import processing.serial.*;                                                            // import serial library
 import processing.video.*;                                                             // import video library
 import gab.opencv.*;                                                                   // import opencv library
